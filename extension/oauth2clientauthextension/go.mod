@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	cloud.google.com/go v0.83.0 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	go.opentelemetry.io/collector v0.36.1-0.20211004155959-190f8fbb2b9a
 	go.uber.org/zap v1.19.1
 	golang.org/x/oauth2 v0.0.0-20210615190721-d04028783cf1
