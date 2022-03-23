@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.36.0
 	github.com/shirou/gopsutil/v3 v3.21.9
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/testcontainers/testcontainers-go v0.11.1
 	go.opentelemetry.io/collector v0.36.1-0.20211004155959-190f8fbb2b9a
 	go.opentelemetry.io/collector/model v0.36.1-0.20211004155959-190f8fbb2b9a
