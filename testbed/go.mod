@@ -52,7 +52,7 @@ require (
 	go.opentelemetry.io/collector/receiver/otlpreceiver v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/semconv v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.uber.org/multierr v1.11.0
-	go.uber.org/zap v1.24.0
+	go.uber.org/zap v1.26.0
 	golang.org/x/text v0.10.0
 )
 
