@@ -410,8 +410,8 @@ go.opentelemetry.io/collector v0.80.1-0.20230629144634-c3f70bd1f8ea/go.mod h1:e9
 go.opentelemetry.io/collector/component v0.80.1-0.20230629144634-c3f70bd1f8ea h1:JMjHevuhhRpEcg0SWAYCywnu6ALRyGo80SXKlOtvens=
 go.opentelemetry.io/collector/component v0.80.1-0.20230629144634-c3f70bd1f8ea/go.mod h1:90XoIDfewpei6xv5OjA2qBRMdjeZG4kuatCNtZ2342E=
 go.opentelemetry.io/collector/config/confignet v0.80.0 h1:ouYD6fPs2DCVmqE4h6XpaSyZi9D/Q2j3oSjjPCVSoeo=
-go.opentelemetry.io/collector/config/configtelemetry v0.80.1-0.20230629144634-c3f70bd1f8ea h1:rm+ojtY7gCRRBfY5DYKZrGm87jd5qLbvhRyVbFiC9/A=
-go.opentelemetry.io/collector/config/configtelemetry v0.80.1-0.20230629144634-c3f70bd1f8ea/go.mod h1:KEYQRiYJdx38iZkvcLKBZWH9fK4NeafxBwGRrRKMgyA=
+go.opentelemetry.io/collector/config/configtelemetry v0.94.1 h1:ztYpBEBlvhcoxMiDKNmQ2SS+A41JZ4M19GfcxjCo8Zs=
+go.opentelemetry.io/collector/config/configtelemetry v0.94.1/go.mod h1:2XLhyR/GVpWeZ2K044vCmrvH/d4Ewt0aD/y46avZyMU=
 go.opentelemetry.io/collector/confmap v0.80.1-0.20230629144634-c3f70bd1f8ea h1:kcGEQM8KRx2H3Q/cdE9YXLTa3eMJHrA9fXQu3gFFLxw=
 go.opentelemetry.io/collector/confmap v0.80.1-0.20230629144634-c3f70bd1f8ea/go.mod h1:L2d3LUsKYxAAORcpuXjW/Pln95vmw5p6lWDf6Pr/fUg=
 go.opentelemetry.io/collector/connector v0.80.1-0.20230629144634-c3f70bd1f8ea h1:e1559bTXNooh7USRcuEnask4rwgA92duer+ZtRMfj4g=
@@ -453,7 +453,7 @@ go.opentelemetry.io/otel/trace v1.16.0/go.mod h1:Yt9vYq1SdNz3xdjZZK7wcXv1qv2pwLk
 go.uber.org/atomic v1.7.0/go.mod h1:fEN4uk6kAWBTFdckzkM89CLk9XfWZrxpCo0nPH17wJc=
 go.uber.org/atomic v1.10.0 h1:9qC72Qh0+3MqyJbAn8YU5xVq1frD8bn3JtD2oXtafVQ=
 go.uber.org/atomic v1.10.0/go.mod h1:LUxbIzbOniOlMKjJjyPfpl4v+PKK2cNJn91OQbhoJI0=
-go.uber.org/goleak v1.1.11 h1:wy28qYRKZgnJTxGxvye5/wgWr1EKjmUDGYox5mGlRlI=
+go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
 go.uber.org/multierr v1.6.0/go.mod h1:cdWPpRnG4AhwMwsgIHip0KRBQjJy5kYEpYjJxpXp9iU=
 go.uber.org/multierr v1.11.0 h1:blXXJkSxSSfBVBlC76pxqeO+LN3aDfLQo+309xJstO0=
 go.uber.org/multierr v1.11.0/go.mod h1:20+QtiLqy0Nd6FdQB9TLXag12DsQkrbs3htMFfDN80Y=
