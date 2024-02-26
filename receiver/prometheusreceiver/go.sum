@@ -691,8 +691,8 @@ go.opentelemetry.io/collector/processor/batchprocessor v0.80.1-0.20230629144634-
 go.opentelemetry.io/collector/processor/batchprocessor v0.80.1-0.20230629144634-c3f70bd1f8ea/go.mod h1:ug7vBXcjHsIFfb2XnO000SrA9YgGXSnjUz402hs826o=
 go.opentelemetry.io/collector/receiver v0.80.1-0.20230629144634-c3f70bd1f8ea h1:6iOT7mYlpFmM9xISVLV/ykZw3uNQU71gVQd9Ab0Wrtk=
 go.opentelemetry.io/collector/receiver v0.80.1-0.20230629144634-c3f70bd1f8ea/go.mod h1:Xv3vKdsCLxS3+7VHS+Yv+aGe8Lp1U39OTO/uWcIM0+s=
-go.opentelemetry.io/collector/semconv v0.80.1-0.20230629144634-c3f70bd1f8ea h1:LmPI0mIHeaXIimZdMrOmH7C45y2+phGHXNGT5+PSKe4=
-go.opentelemetry.io/collector/semconv v0.80.1-0.20230629144634-c3f70bd1f8ea/go.mod h1:TlYPtzvsXyHOgr5eATi43qEMqwSmIziivJB2uctKswo=
+go.opentelemetry.io/collector/semconv v0.95.0 h1:Oa7NXmoatwKLS+RzuXtdjq9oXAeg8P0g3x238fKF0Do=
+go.opentelemetry.io/collector/semconv v0.95.0/go.mod h1:zOm/U3pgMIWcvrcnPbR9Xx2HinoXj46ERMK8PUV9wrs=
 go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.42.0 h1:pginetY7+onl4qN1vl0xW/V/v6OBZ0vVdH+esuJgvmM=
 go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.42.0/go.mod h1:XiYsayHc36K3EByOO6nbAXnAWbrUxdjUROCEeeROOH8=
 go.opentelemetry.io/contrib/propagators/b3 v1.17.0 h1:ImOVvHnku8jijXqkwCSyYKRDt2YrnGXD4BbhcpfbfJo=
@@ -716,8 +716,8 @@ go.opentelemetry.io/proto/otlp v0.7.0/go.mod h1:PqfVotwruBrMGOCsRd/89rSnXhoiJIqe
 go.uber.org/atomic v1.7.0/go.mod h1:fEN4uk6kAWBTFdckzkM89CLk9XfWZrxpCo0nPH17wJc=
 go.uber.org/atomic v1.10.0 h1:9qC72Qh0+3MqyJbAn8YU5xVq1frD8bn3JtD2oXtafVQ=
 go.uber.org/atomic v1.10.0/go.mod h1:LUxbIzbOniOlMKjJjyPfpl4v+PKK2cNJn91OQbhoJI0=
-go.uber.org/goleak v1.2.1 h1:NBol2c7O1ZokfZ0LEU9K6Whx/KnwvepVetCUhtKja4A=
-go.uber.org/goleak v1.2.1/go.mod h1:qlT2yGI9QafXHhZZLxlSuNsMw3FFLxBr+tBRlmO1xH4=
+go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
+go.uber.org/goleak v1.3.0/go.mod h1:CoHD4mav9JJNrW/WLlf7HGZPjdw8EucARQHekz1X6bE=
 go.uber.org/multierr v1.6.0/go.mod h1:cdWPpRnG4AhwMwsgIHip0KRBQjJy5kYEpYjJxpXp9iU=
 go.uber.org/multierr v1.11.0 h1:blXXJkSxSSfBVBlC76pxqeO+LN3aDfLQo+309xJstO0=
 go.uber.org/multierr v1.11.0/go.mod h1:20+QtiLqy0Nd6FdQB9TLXag12DsQkrbs3htMFfDN80Y=
