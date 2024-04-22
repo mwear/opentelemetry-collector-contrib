@@ -6,7 +6,7 @@ require (
 	github.com/google/go-cmp v0.5.9
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig v0.80.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/kubelet v0.80.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.opentelemetry.io/collector/component v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/config/confignet v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/config/configtls v0.80.1-0.20230629144634-c3f70bd1f8ea
@@ -14,7 +14,7 @@ require (
 	go.opentelemetry.io/collector/consumer v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0013.0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/receiver v0.80.1-0.20230629144634-c3f70bd1f8ea
-	go.opentelemetry.io/collector/semconv v0.80.1-0.20230629144634-c3f70bd1f8ea
+	go.opentelemetry.io/collector/semconv v0.98.0
 	go.uber.org/zap v1.24.0
 	k8s.io/api v0.27.3
 	k8s.io/apimachinery v0.27.3
