@@ -10,7 +10,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.80.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/signalfx v0.80.0
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/collector v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/component v0.80.1-0.20230629144634-c3f70bd1f8ea
@@ -21,7 +21,7 @@ require (
 	go.opentelemetry.io/collector/exporter v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0013.0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/receiver v0.80.1-0.20230629144634-c3f70bd1f8ea
-	go.opentelemetry.io/collector/semconv v0.80.1-0.20230629144634-c3f70bd1f8ea
+	go.opentelemetry.io/collector/semconv v0.99.0
 	go.uber.org/zap v1.24.0
 )
 
