@@ -19,7 +19,7 @@ require (
 	go.opentelemetry.io/collector/semconv v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.uber.org/zap v1.24.0
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.36.5
 )
 
 require (
