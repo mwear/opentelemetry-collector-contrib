@@ -1,9 +1,9 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/datadogexporter
 
-go 1.19
+go 1.21
 
 require (
-	github.com/DataDog/agent-payload/v5 v5.0.88
+	github.com/DataDog/agent-payload/v5 v5.0.162
 	github.com/DataDog/datadog-agent/pkg/trace v0.47.0-devel
 	github.com/DataDog/datadog-api-client-go/v2 v2.13.0
 	github.com/DataDog/gohai v0.0.0-20220718130825-1776f9beb9cc
