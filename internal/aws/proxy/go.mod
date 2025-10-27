@@ -1,12 +1,12 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/proxy
 
-go 1.19
+go 1.24.0
 
 require (
 	github.com/aws/aws-sdk-go v1.44.290
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/common v0.80.0
-	github.com/stretchr/testify v1.8.4
-	go.opentelemetry.io/collector/config/confignet v0.80.1-0.20230629144634-c3f70bd1f8ea
+	github.com/stretchr/testify v1.11.1
+	go.opentelemetry.io/collector/config/confignet v1.44.0
 	go.opentelemetry.io/collector/config/configtls v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.uber.org/zap v1.24.0
 )
