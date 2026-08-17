@@ -11,7 +11,7 @@ require (
 	github.com/prometheus/client_model v0.4.0
 	github.com/prometheus/common v0.44.0
 	github.com/prometheus/prometheus v0.43.1
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.12.0
 	go.opentelemetry.io/collector/component v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/config/confighttp v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/config/configtls v0.80.1-0.20230629144634-c3f70bd1f8ea
@@ -124,7 +124,6 @@ require (
 	github.com/opencontainers/image-spec v1.1.0-rc2 // indirect
 	github.com/ovh/go-ovh v1.3.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/common/sigv4 v0.1.0 // indirect
 	github.com/prometheus/procfs v0.10.1 // indirect
 	github.com/rs/cors v1.9.0 // indirect
