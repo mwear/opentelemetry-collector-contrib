@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/extension/observer v0.80.0
 	github.com/shirou/gopsutil/v3 v3.23.5
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.12.0
 	go.opentelemetry.io/collector/component v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/confmap v0.80.1-0.20230629144634-c3f70bd1f8ea
 	go.opentelemetry.io/collector/extension v0.80.1-0.20230629144634-c3f70bd1f8ea
@@ -14,7 +14,6 @@ require (
 
 require (
 	github.com/benbjohnson/clock v1.3.0 // indirect
-	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
@@ -23,7 +22,6 @@ require (
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/mapstructure v1.5.1-0.20220423185008-bf980b35cac4 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
 	github.com/tklauser/go-sysconf v0.3.11 // indirect
